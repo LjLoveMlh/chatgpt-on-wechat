@@ -1,0 +1,22 @@
+{
+  "open_ai_api_key": "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",
+  "model": "gpt-3.5-turbo",
+  "proxy": "",
+  "single_chat_prefix": [
+    ""
+  ],
+  "single_chat_reply_prefix": "",
+  "group_chat_prefix": "['智障']",
+  "group_name_white_list": "['机器人体验群','地下组织']",
+  "image_create_prefix": "['画', '看', '找']",
+  "speech_recognition": false,
+  "group_speech_recognition": false,
+  "voice_reply_voice": true,
+  "conversation_max_tokens": 1000,
+  "expires_in_seconds": 3600,
+  "character_desc": "你是ChatGPT, 一个由OpenAI训练的大型语言模型, 你旨在回答并解决人们的任何问题，并且可以使用多种语言与人交流。",
+  "use_linkai": true,
+  "linkai_api_key": "Link_BPAS6l6S12hCMeCLXjTcxndSYzgHltspk9ktxSecpU",
+  "linkai_app_code": "lrCvCiP6",
+  "debug": true
+}
